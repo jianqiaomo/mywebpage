@@ -1,7 +1,13 @@
 ---
-layout: default
+layout: page
 title: About Me
-
+permalink: /about/
+date: 2020-08-09
+author: Jianqiao Mo
+tags: [document]
+comments: true
+toc: true
+pinned: true
 ---
 
 ## Jianqiao 'Cambridge' Mo 莫剑桥
