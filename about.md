@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: default
 title: About Me
-permalink: /
+
 ---
 
 ## Jianqiao 'Cambridge' Mo 莫剑桥
