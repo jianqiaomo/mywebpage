@@ -33,13 +33,13 @@ favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/fav
 # 菜单中的按钮
 navigation:
   - name: Home
-    url: /
+    url: /tags
   - name: About Me
     url: /about
   - name: Activities
-    url: /archive
+    url: /
   - name: Works
-    url: /tags
+    url: /archive
 
 # 每页的文章数
 paginate: 10

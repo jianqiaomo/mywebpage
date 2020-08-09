@@ -4,9 +4,9 @@ title: About Me
 permalink: /about/
 ---
 
-## Jianqiao Mo 莫剑桥
+## Jianqiao 'Cambridge' Mo 莫剑桥
 
-Welcome to Jianqiao Mo(莫剑桥)'s Pages! 
+Welcome to Jianqiao Mo 's Pages! 
 
 Email: <img src="http://graph.baidu.com/resource/1224db235f570ec05105201596794839.jpg" width = "310" height = "21" alt="email" />
 
@@ -16,6 +16,8 @@ I am advised by [Prof. Brandon Reagen](https://engineering.nyu.edu/faculty/brand
 
 My interests include Deep Neural Networks (DNNs) and computer hardware. 
 I'm exploring the intersection of DNN models and the specific accelerators to reduce the energy cost and complexity.
+
+---
 
 ### Curriculum Vitae:
 
