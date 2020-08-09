@@ -33,11 +33,11 @@ favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/fav
 # 菜单中的按钮
 navigation:
   - name: Home
-    url: /tags
-  - name: About Me
-    url: /about
-  - name: Activities
     url: /
+  - name: About Me
+    url: /aboutme
+  - name: Activities
+    url: /tags
   - name: Works
     url: /archive
 
