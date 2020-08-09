@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-permalink: /about/
+permalink: /
 ---
 
 ## Jianqiao 'Cambridge' Mo 莫剑桥
@@ -17,7 +17,8 @@ I am advised by [Prof. Brandon Reagen](https://engineering.nyu.edu/faculty/brand
 My interests include Deep Neural Networks (DNNs) and computer hardware. 
 I'm exploring the intersection of DNN models and the specific accelerators to reduce the energy cost and complexity.
 
----
+***
+***
 
 ### Curriculum Vitae:
 
