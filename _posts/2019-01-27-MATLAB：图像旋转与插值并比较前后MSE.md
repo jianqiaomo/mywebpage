@@ -3,7 +3,7 @@ layout: post
 title: MATLAB：图像旋转与插值并比较前后MSE
 date: 2019-01-27
 author: Jianqiao Mo
-tags: [document, Chinese]
+tags: [document, in Chinese]
 comments: true
 toc: true
 pinned: false
@@ -12,12 +12,19 @@ pinned: false
 《MATLAB：图像旋转与插值并比较前后MSE》
 本文地址 [https://blog.csdn.net/qq_39475211/article/details/86668957](https://blog.csdn.net/qq_39475211/article/details/86668957)
 
+<!-- more -->
+
 # 为什么图像旋转需要插值？
 图像旋转或者放大后，原本大小将发生改变，需要对一些新的像素点进行计算。MATLAB自带函数`imrotate()`可以实现图像旋转（MATLAB使用双三次插值）。感兴趣还可以了解flipdim、mirror、transp等函数。
 # 常用的插值方法
 ## 最近邻插值
 在一维空间中，最近邻插值就相当于四舍五入取整。在二维图像中，像素点的坐标都是整数，该方法就是选取离目标点最近的点。
 最近相邻插值算法的优点是计算量很小，算法也简单，因此运算速度较快。但它仅使用离待测采样点最近的像素的灰度值作为该采样点的灰度值，而没考虑其他相邻像素点的影响，因而重新采样后灰度值有明显的不连续性，图像质量损失较大，会产生明显的马赛克和锯齿现象。![最近邻插值](https://img-blog.csdnimg.cn/20190127201727350.png#pic_center)
+
+<div align="center">
+    <img src="https://img-blog.csdnimg.cn/20190127201727350.png#pic_center" width=516 height=250  />
+</div>
+
 例如：我们约定，使用左/上原有像素点对放大的图像插值，将得到类似的结果。
 ## 双线性插值
 两次线性插值算法(Bilinear Interpolation)是一种通过平均周围像素颜色值来添加像素的方法。该方法可生成中等品质的图像。
@@ -26,10 +33,20 @@ pinned: false
 
 但是，此方法仅考虑待测样点周围四个直接邻点灰度值的影响，而未考虑到各邻点间灰度值变化率的影响，因此具有低通滤波器的性质，从而导致缩放后图像的高频分量受到损失，图像边缘在一定程度上变得较为模糊。
 
-![双线性插值](https://img-blog.csdnimg.cn/20190127202757324.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM5NDc1MjEx,size_16,color_FFFFFF,t_70#pic_center =560x300)
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190127203919172.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM5NDc1MjEx,size_16,color_FFFFFF,t_70#pic_center =360x300)
+<div align="center">
+    <img src="https://img-blog.csdnimg.cn/20190127202757324.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM5NDc1MjEx,size_16,color_FFFFFF,t_70#pic_center" width=560 height=300  />
+</div>
+
+<div align="center">
+    <img src="https://img-blog.csdnimg.cn/20190127203919172.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM5NDc1MjEx,size_16,color_FFFFFF,t_70#pic_center" width=360 height=300  />
+</div>
+
 可以直观地像上图那样理解双线性插值。
-![在这里插入图片描述](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9pbWFnZXMwLmNuYmxvZ3MuY29tL2kvNTcxNjE4LzIwMTQwMy8xMjE5MzMyNTE4OTcyMDcuanBn?x-oss-process=image/format,png#pic_center)
+
+<div align="center">
+    <img src="https://imgconvert.csdnimg.cn/aHR0cHM6Ly9pbWFnZXMwLmNuYmxvZ3MuY29tL2kvNTcxNjE4LzIwMTQwMy8xMjE5MzMyNTE4OTcyMDcuanBn?x-oss-process=image/format,png#pic_center" width=360 height=300  />
+</div>
+
 严谨的计算公式：
 $$f( i+u, j+v)=(1-u)(1-v) f(i,j) + (1-u) v f(i,j+1) + u (1-v) f( i+1,j ) + u v f( i+1, j+1)$$
 
@@ -88,14 +105,23 @@ $\begin{bmatrix}
 # 小实验示例代码
 小实验：
 1. 读取cameraman.tif，==自行编写代码==，分别使用前向插值（使用最邻近法），后向插值（自己选择合适的插值方法），将图像绕左上角逆时针旋转30度，再顺时针旋转30度，显示并计算旋转前后图像的MSE，分析原因。
-![MSE](https://img-blog.csdnimg.cn/20190127211642293.png#pic_center =180x50)        
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190127211815606.png#pic_center =180x50)
+<div align="center">
+    <img src="https://img-blog.csdnimg.cn/20190127211642293.png#pic_center" width=180 height=50  />
+</div>
+<div align="center">
+    <img src="https://img-blog.csdnimg.cn/20190127211815606.png#pic_center" width=180 height=50  />
+</div>
 
 前向映射：旋转30°，再插值比较：需要对映射不完全像素（黑色小点）处理。
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190127212118235.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM5NDc1MjEx,size_16,color_FFFFFF,t_70#pic_center)
+<div align="center">
+    <img src="https://img-blog.csdnimg.cn/20190127212118235.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM5NDc1MjEx,size_16,color_FFFFFF,t_70#pic_center" />
+</div>
 
 后向映射：
-![在这里插入图片描述](https://img-blog.csdnimg.cn/201901272123412.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM5NDc1MjEx,size_16,color_FFFFFF,t_70#pic_center)
+<div align="center">
+    <img src="https://img-blog.csdnimg.cn/201901272123412.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM5NDc1MjEx,size_16,color_FFFFFF,t_70#pic_center" />
+</div>
+
 计算结果： MSE =    8.9182，旋转时需要对一些像素进行插值，故再次转回来的时候，插值产生的灰度值（计算产生的）将会与原本的图像的不同。
 
 ```

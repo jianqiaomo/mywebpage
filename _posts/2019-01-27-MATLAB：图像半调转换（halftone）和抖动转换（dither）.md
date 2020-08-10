@@ -3,7 +3,7 @@ layout: post
 title: MATLAB：图像半调转换（halftone）和抖动转换（dither）
 date: 2019-01-27
 author: Jianqiao Mo
-tags: [document, Chinese]
+tags: [document, in Chinese]
 comments: true
 toc: true
 pinned: false
@@ -11,6 +11,7 @@ pinned: false
 
 《MATLAB: 图像半调（halftone）显示和抖动（dither）显示》
 本文地址 [https://blog.csdn.net/qq_39475211/article/details/86664284](https://blog.csdn.net/qq_39475211/article/details/86664284)
+<!-- more -->
 # 什么是半色调（halftone）
 
 半色调（Halftone）技术是传统印刷中用来处理阶调并模拟连续调(Continue tone)的方法。
@@ -116,8 +117,7 @@ for x=1:1:256
 end
 
 ```
-完整代码在 https://download.csdn.net/download/qq_39475211/10940207
-没办法修改C币……实在要下载可以找某宝代下
+完整代码在 [https://download.csdn.net/download/qq_39475211/10940207](https://download.csdn.net/download/qq_39475211/10940207)
 
 ## 小实验2（抖动dither）
 
