@@ -5,13 +5,13 @@ date: 2020-08-10
 author: Jianqiao Mo
 tags: [Conference Paper]
 comments: true
-toc: false
+toc: true
 pinned: false
 ---
 
 **DynExit: A Dynamic Early-Exit Strategy for Deep Residual Networks**
 
-Link: https://ieeexplore.ieee.org/abstract/document/9020551
+Link: [https://ieeexplore.ieee.org/abstract/document/9020551](https://ieeexplore.ieee.org/abstract/document/9020551)
 
 **Authors:** Meiqi Wang; Jianqiao Mo; Jun Lin; Zhongfeng Wang; Li Du
 
@@ -35,9 +35,11 @@ can achieve high speed with low hardware complexity. To the best of our knowledg
 is the first hardware implementation for early-exit techniques used for DNNs in open 
 literature.
 
+<div align="center">
+    <img src="http://upload.ouliu.net/i/20200810172246f3zlo.png" width=473 height=261  />
+</div>
 
-![img](http://upload.ouliu.net/i/20200810172246f3zlo.png)
-
+    
 
 **Published in:** [2019 IEEE International Workshop on Signal Processing Systems](https://ieeexplore.ieee.org/abstract/document/9020551) 
  [(SiPS)](http://www.sips2019.org/)
