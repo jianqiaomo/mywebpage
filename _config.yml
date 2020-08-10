@@ -77,8 +77,8 @@ disqus: #shortname
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
 gitalk:
-  clientID: dbdb166f7d5790985fad
-  clientSecret: dc4b48e77f4a0ec27468e3117f46cf74b79b3e5b
+  clientID: 91e699d173d31cf5c80b
+  clientSecret: baa63c3140a1f724fb369581eaecb1c74f52253d
   repo: mywebpage
   owner: jianqiaomo
 
