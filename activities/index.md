@@ -13,4 +13,8 @@ permalink: /activities/
 
 ### Recent Activities
 
-- Welcome to Jianqiao Mo 's Pages! 
+- Update post: TOEFL Crawler; _Aug.10, 2020_
+
+- Update post: Dynexit; _Aug.10, 2020_
+
+- Welcome to Jianqiao Mo 's Pages! _Aug.08, 2020_
