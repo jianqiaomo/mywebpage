@@ -8,9 +8,6 @@ comments: true
 toc: true
 pinned: false
 ---
-
-**NEEA托福考位爬虫 Getting Started with NEEA TOEFL Testseat Crawler**
-
 Please go to this github repository: https://github.com/jianqiaomo/NEEA-TOEFL-Testseat-Crawler
 
 本文档简要介绍了NEEA托福考位本地爬虫的使用方法。

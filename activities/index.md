@@ -12,6 +12,7 @@ permalink: /activities/
 
 
 ### Recent Activities
+- Update post: MATLAB halftone & dither, MATLAB MSE; _Aug.10, 2020_
 
 - Update post: TOEFL Crawler; _Aug.10, 2020_
 
