@@ -19,10 +19,10 @@ pinned: false
 # 常用的插值方法
 ## 最近邻插值
 在一维空间中，最近邻插值就相当于四舍五入取整。在二维图像中，像素点的坐标都是整数，该方法就是选取离目标点最近的点。
-最近相邻插值算法的优点是计算量很小，算法也简单，因此运算速度较快。但它仅使用离待测采样点最近的像素的灰度值作为该采样点的灰度值，而没考虑其他相邻像素点的影响，因而重新采样后灰度值有明显的不连续性，图像质量损失较大，会产生明显的马赛克和锯齿现象。![最近邻插值](https://img-blog.csdnimg.cn/20190127201727350.png#pic_center)
+最近相邻插值算法的优点是计算量很小，算法也简单，因此运算速度较快。但它仅使用离待测采样点最近的像素的灰度值作为该采样点的灰度值，而没考虑其他相邻像素点的影响，因而重新采样后灰度值有明显的不连续性，图像质量损失较大，会产生明显的马赛克和锯齿现象。
 
 <div align="center">
-    <img src="https://img-blog.csdnimg.cn/20190127201727350.png#pic_center" width=516 height=250  />
+    <img src="https://img-blog.csdnimg.cn/20190127201727350.png#pic_center" width=516 height=250 />
 </div>
 
 例如：我们约定，使用左/上原有像素点对放大的图像插值，将得到类似的结果。
@@ -138,4 +138,4 @@ subplot(1,3,2),imshow(J),title("Rotation1 350*350"),
 subplot(1,3,3),imshow(K),title("Rotation2 256*256");
 [PSNR, MSE] = psnr_mse(I, K);%calculate MSE and display MSE
 ```
-[完整代码包地址，](https://download.csdn.net/download/qq_39475211/10940665)
+完整代码包地址: [https://download.csdn.net/download/qq_39475211/10940665](https://download.csdn.net/download/qq_39475211/10940665)

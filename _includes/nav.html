@@ -26,4 +26,17 @@
       {% include footer.html %}
     </footer>
   </div>
+
+  <%
+    Integer hitsCount =
+      (Integer)application.getAttribute("hitCounter");
+    if( hitsCount ==null || hitsCount == 0 ){
+       hitsCount = 1;
+    }else{
+       hitsCount += 1;
+    }
+    application.setAttribute("hitCounter", hitsCount);
+%>
+  <p>Page views: <%= hitsCount%></p>
+
 </div>
