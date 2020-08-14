@@ -48,7 +48,11 @@ pinned: false
 </div>
 
 严谨的计算公式：
-$$f( i+u, j+v)=(1-u)(1-v) f(i,j) + (1-u) v f(i,j+1) + u (1-v) f( i+1,j ) + u v f( i+1, j+1)$$
+$$
+\begin{align*}
+f( i+u, j+v)=(1-u)(1-v) f(i,j) + (1-u) v f(i,j+1) + u (1-v) f( i+1,j ) + u v f( i+1, j+1)
+\end{align*}
+$$
 
 具体的实现还要结合下面讲的**映射方法**再操作。
 
@@ -78,7 +82,8 @@ $$f( i+u, j+v)=(1-u)(1-v) f(i,j) + (1-u) v f(i,j+1) + u (1-v) f( i+1,j ) + u v f
 # 图像旋转方法
 旋转的矩阵公式：旋转变换的矩阵公式：
 
-$\begin{bmatrix}
+$$
+\begin{bmatrix}
 {x_{1}}&{y_{1}}&{1}\\
 \end{bmatrix}$ = $\begin{bmatrix}
 {x_{0}}&{y_{0}}&{1}\\
@@ -86,10 +91,12 @@ $\begin{bmatrix}
 {cos(\theta)}&{sin(\theta)}&{0}\\
 {-sin(\theta)}&{cos(\theta)}&{0}\\
 {0)}&{0}&{1}\\
-\end{bmatrix}$ 
+\end{bmatrix}
+$$ 
 
 逆运算矩阵公式： 
-$\begin{bmatrix}
+$$
+\begin{bmatrix}
 {x_{0}}&{y_{0}}&{1}\\
 \end{bmatrix}$ = $\begin{bmatrix}
 {x_{1}}&{y_{1}}&{1}\\
@@ -97,7 +104,8 @@ $\begin{bmatrix}
 {cos(\theta)}&{-sin(\theta)}&{0}\\
 {sin(\theta)}&{cos(\theta)}&{0}\\
 {0)}&{0}&{1}\\
-\end{bmatrix}$ 
+\end{bmatrix}
+$$ 
 
 对数学推导有兴趣可以看看大佬的文章：[详细的推导过程](https://blog.csdn.net/Bryan_QAQ/article/details/78805201)
 
