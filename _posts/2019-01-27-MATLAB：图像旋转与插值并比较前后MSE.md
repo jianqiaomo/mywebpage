@@ -49,9 +49,7 @@ pinned: false
 
 严谨的计算公式：
 $$
-\begin{align*}
 f( i+u, j+v)=(1-u)(1-v) f(i,j) + (1-u) v f(i,j+1) + u (1-v) f( i+1,j ) + u v f( i+1, j+1)
-\end{align*}
 $$
 
 具体的实现还要结合下面讲的**映射方法**再操作。
@@ -85,9 +83,9 @@ $$
 $$
 \begin{bmatrix}
 {x_{1}}&{y_{1}}&{1}\\
-\end{bmatrix}$ = $\begin{bmatrix}
+\end{bmatrix} = \begin{bmatrix}
 {x_{0}}&{y_{0}}&{1}\\
-\end{bmatrix}$ $\begin{bmatrix}
+\end{bmatrix}\begin{bmatrix}
 {cos(\theta)}&{sin(\theta)}&{0}\\
 {-sin(\theta)}&{cos(\theta)}&{0}\\
 {0)}&{0}&{1}\\
@@ -98,9 +96,9 @@ $$
 $$
 \begin{bmatrix}
 {x_{0}}&{y_{0}}&{1}\\
-\end{bmatrix}$ = $\begin{bmatrix}
+\end{bmatrix} = \begin{bmatrix}
 {x_{1}}&{y_{1}}&{1}\\
-\end{bmatrix}$ $\begin{bmatrix}
+\end{bmatrix}\begin{bmatrix}
 {cos(\theta)}&{-sin(\theta)}&{0}\\
 {sin(\theta)}&{cos(\theta)}&{0}\\
 {0)}&{0}&{1}\\
