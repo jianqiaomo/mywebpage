@@ -88,11 +88,12 @@ $$\begin{bmatrix}
 {0)}&{0}&{1}\\
 \end{bmatrix}$$ 
 
+
 逆运算矩阵公式： 
 $$\begin{bmatrix}
-{x_{0}}&{y_{0}}&{1}\\
+{x_{0}}&{y_{0}}&{1}
 \end{bmatrix} = \begin{bmatrix}
-{x_{1}}&{y_{1}}&{1}\\
+{x_{1}}&{y_{1}}&{1}
 \end{bmatrix}\begin{bmatrix}
 {cos(\theta)}&{-sin(\theta)}&{0}\\
 {sin(\theta)}&{cos(\theta)}&{0}\\
