@@ -8,7 +8,7 @@
 
 # 描述/签名
 name: 莫剑桥 Jianqiao Mo
-description: Jianqiao 'Cambridge' Mo's Webpage
+description: Jianqiao 'Cambridge' Mo’s Webpage
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
 url:
@@ -24,7 +24,7 @@ baseurl: /
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: http://upload.ouliu.net/i/202008092321332xs47.png
+avatar: https://wx1.sbimg.cn/2020/08/20/38UIe.png
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
 favicon: #https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/favicon.png
