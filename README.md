@@ -6,7 +6,7 @@ Quick Start [click here](https://fromendworld.github.io/LOFFER/document/)
 
 ###Acknowledgement 致谢
 theme from: https://github.com/FromEndWorld/LOFFER ,
-            
-            https://www.jianshu.com/p/b628588b24d2 ,
 
-            https://blog.csdn.net/jabony/article/details/89840327
+personal website: https://www.jianshu.com/p/b628588b24d2 ,
+
+cloudflare: https://blog.csdn.net/jabony/article/details/89840327
