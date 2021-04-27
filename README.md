@@ -5,4 +5,5 @@
 Quick Start [click here](https://fromendworld.github.io/LOFFER/document/)
 
 ###Acknowledgement 致谢
-theme from: https://github.com/FromEndWorld/LOFFER
+theme from: https://github.com/FromEndWorld/LOFFER ,
+            https://www.jianshu.com/p/b628588b24d2
