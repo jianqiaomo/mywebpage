@@ -397,6 +397,16 @@ img {
   }
 }
 
+.site-affiliation {
+  margin: 15px auto;
+  color: $base-lighten-color;
+  font-size: 13px;
+
+  @include mobile {
+    margin: 10px auto;
+  }
+}
+
 .navlist{
   text-align:center;
 }
