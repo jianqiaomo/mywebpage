@@ -9,7 +9,7 @@
 # 描述/签名
 name: Jianqiao 'Cambridge' Mo
 description: Jianqiao Mo - Webpage
-affiliation: <a href="https://cyber.nyu.edu/">CCS of Electrical and Computer Engineering</a> <br> New York University <br> 370 Jay St, Rm 1015 <br> Brooklyn, NY 11201
+affiliation: <a href="https://cyber.nyu.edu/">CCS of Electrical and Computer Engineering</a> <br> <img width="24px" src = "https://github.com/jianqiaomo/mywebpage/blob/master/images/New_York_University-Logo.svg" alt="NYUlogo"/> <br> 370 Jay St, Rm 1015 <br> Brooklyn, NY 11201
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
 url:
