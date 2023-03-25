@@ -5,22 +5,35 @@
         <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
       {% endif %} 
       <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+
+      <div class="navlist">
+        <nav>
+          {% for nav in site.navigation %}
+          {% if nav.url contains 'http://' or nav.url contains 'https://' %}
+          <a href="{{ nav.url }}">{{ nav.name }}</a>
+          {% else %}
+          <a href="{{ site.baseurl }}{{ nav.url }}">{{ nav.name }}</a>
+          {% endif %}
+          {% endfor %}
+        </nav>
+      </div>
+
       <p class="site-description">{{ site.description }}</p>
       <p class="site-affiliation">{{ site.affiliation }}</p>
     </div>
   </header>
 
-  <div class="navlist">
-    <nav>
-      {% for nav in site.navigation %}
-      {% if nav.url contains 'http://' or nav.url contains 'https://' %}
-      <a href="{{ nav.url }}">{{ nav.name }}</a>
-      {% else %}
-      <a href="{{ site.baseurl }}{{ nav.url }}">{{ nav.name }}</a>
-      {% endif %}
-      {% endfor %}
-    </nav>
-  </div>
+<!--  <div class="navlist">-->
+<!--    <nav>-->
+<!--      {% for nav in site.navigation %}-->
+<!--      {% if nav.url contains 'http://' or nav.url contains 'https://' %}-->
+<!--      <a href="{{ nav.url }}">{{ nav.name }}</a>-->
+<!--      {% else %}-->
+<!--      <a href="{{ site.baseurl }}{{ nav.url }}">{{ nav.name }}</a>-->
+<!--      {% endif %}-->
+<!--      {% endfor %}-->
+<!--    </nav>-->
+<!--  </div>-->
 
   <div class="wrapper-footer-desktop">
     <footer class="footer">
