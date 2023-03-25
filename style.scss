@@ -342,7 +342,8 @@ img {
 }
 
 .sidebar {
-  padding: 20px 0;
+//   padding: 20px 0;
+  padding: 0px 0;
 
   @include mobile {
     text-align: center;
@@ -398,7 +399,8 @@ img {
 }
 
 .site-affiliation {
-  margin: 15px auto;
+//   margin: 15px auto;
+  margin: 5px;
   color: $base-lighten-color;
   font-size: 13px;
 
