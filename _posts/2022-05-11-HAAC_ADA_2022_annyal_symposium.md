@@ -16,7 +16,7 @@ pinned: false
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/jianqiaomo/mywebpage/master/images/HAAC_ada_poster_pitch.JPG" width="853" height="480"/>
-    <p><b>Poster Pitch</b></p>
+    <p>Poster Pitch</p>
 </div>
 
 View [Introduction Booklet](https://nyu0-my.sharepoint.com/:b:/g/personal/jm8782_nyu_edu/EeuNup1jkFRNm0mxrbdwUIIBtbcsMC5POb9p0VdRZZQP1Q).

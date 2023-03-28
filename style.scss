@@ -456,7 +456,7 @@ nav {
 
   .tag {
     display: inline;
-    font-weight: 300;
+    font-weight: bold; //font-weight: 300;
     font-size: $small-font-size;
 
     li:before {

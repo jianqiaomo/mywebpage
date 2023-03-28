@@ -12,7 +12,9 @@ permalink: /activities/
 
 
 ### Recent Activities
+- Volunteer in 2022 ISCA; _June 18-22, 2022_
 
+- Join [ADA Annual Symposium](https://jqmo.top/activities/Act_ADA_symposium_2022/); _May. 10-12, 2022_
 
 - [ADA Liaison Meeting](https://jqmo.top/activities/Act_ADA_liaison_meeting_2022/); _Feb. 23, 2022_
 
