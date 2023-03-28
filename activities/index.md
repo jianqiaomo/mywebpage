@@ -13,7 +13,7 @@ permalink: /activities/
 
 ### Recent Activities
 
-- [ADA Liaison Meeting]()
+- [ADA Liaison Meeting](https://jqmo.top/activities/ADA_liaison_meeting_2022/)
 
 - Update status: New to Brooklyn!!; _Feb 2021_
 
