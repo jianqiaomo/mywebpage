@@ -3,7 +3,6 @@ layout: post
 title: Activities
 date: 2022-02-23
 author: Jianqiao Mo
-tags: [Activity]
 comments: true
 toc: false
 pinned: false
