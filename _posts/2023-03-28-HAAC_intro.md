@@ -9,7 +9,7 @@ toc: false
 pinned: false
 ---
 **Accepted in**:
-[2023 Proceedings of the 50th Annual International Symposium on Computer Architecture (ISCA)](https://www.iscaconf.org/isca2023/program/) 
+[2023 International Symposium on Computer Architecture (ISCA)](https://www.iscaconf.org/isca2023/program/) 
 
 **Date of Conference**: June 17–21, 2023
 
