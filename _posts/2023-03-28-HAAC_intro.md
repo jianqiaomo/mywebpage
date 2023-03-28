@@ -8,9 +8,12 @@ comments: true
 toc: false
 pinned: false
 ---
-Link: [https://arxiv.org/abs/2211.13324](https://arxiv.org/abs/2211.13324)
+**Accepted in**:
+[2023 Proceedings of the 50th Annual International Symposium on Computer Architecture (ISCA)](https://www.iscaconf.org/isca2023/program/) 
 
-**Authors**: Jianqiao Mo, Jayanth Gopinath, Brandon Reagen
+**Date of Conference**: June 17–21, 2023
+
+**Authors**: Jianqiao Mo*, Jayanth Gopinath, Brandon Reagen
 
 **Abstract**:
 Privacy and security have rapidly emerged as priorities in system design. 
@@ -26,10 +29,4 @@ In taking this approach we can achieve ASIC performance/efficiency without sacri
 Insights of our approach include how co-design enables expressing arbitrary GC programs as streams, which simplifies hardware and enables complete memory-compute decoupling, and the development of a scratchpad that captures data reuse by tracking program execution, eliminating the need for costly hardware managed caches and tagging logic. 
 We evaluate HAAC with VIP-Bench and achieve a speedup of 608× in 4.3mm<sup>2</sup> of area.
 
-    
-
-**Accepted in**:
-[2023 Proceedings of the 50th Annual International Symposium on Computer Architecture (ISCA)](https://www.iscaconf.org/isca2023/program/) 
-
-
-**Date of Conference**: June 17–21, 2023
+Link: [https://arxiv.org/abs/2211.13324](https://arxiv.org/abs/2211.13324)
