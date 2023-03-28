@@ -10,9 +10,9 @@ pinned: false
 ---
 Link: [https://arxiv.org/abs/2211.13324](https://arxiv.org/abs/2211.13324)
 
-**Authors:** Jianqiao Mo, Jayanth Gopinath, Brandon Reagen
+**Authors**: Jianqiao Mo, Jayanth Gopinath, Brandon Reagen
 
-**Abstract:**
+**Abstract**:
 Privacy and security have rapidly emerged as priorities in system design. 
 One powerful solution for providing both is privacy-preserving computation, where functions are computed directly on encrypted data and control can be provided over how data is used. 
 Garbled circuits (GCs) are a PPC technology that provide both confidential computing and control over how data is used. 
@@ -28,8 +28,8 @@ We evaluate HAAC with VIP-Bench and achieve a speedup of 608× in 4.3mm<sup>2</s
 
     
 
-**Accepted in:** 
+**Accepted in**:
 [2023 Proceedings of the 50th Annual International Symposium on Computer Architecture (ISCA)](https://www.iscaconf.org/isca2023/program/) 
 
 
-**Date of Conference:** June 17–21, 2023
+**Date of Conference**: June 17–21, 2023
