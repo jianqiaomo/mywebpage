@@ -13,6 +13,11 @@ pinned: false
 
 **Date of Symposium**: May 10–12, 2022
 
-<iframe width="100%" height="800" src=""></iframe>
+<div align="center">
+    <img src="https://raw.githubusercontent.com/jianqiaomo/mywebpage/master/images/HAAC_ADA_2022_annyal_symposium/HAAC_ada_poster_pitch.JPG" width=230 height=280  />
+</div>
 
-View [Presentation Slides]().
+<iframe width="100%" height="800" src="https://raw.githubusercontent.com/jianqiaomo/mywebpage/master/images/HAAC_ADA_2022_annyal_symposium/ADA_StudentBooklet_AnnualSymposium2022_0.pdf"></iframe>
+
+View [Presentation Slides](https://raw.githubusercontent.com/jianqiaomo/mywebpage/master/images/HAAC_ADA_2022_annyal_symposium/HAAC_ada_poster_2022.pdf).
+
