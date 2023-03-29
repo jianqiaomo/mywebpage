@@ -51,8 +51,8 @@ comments: true
       </article>
     {% endif %}
   {% endfor %}
-  
-  {% for post in site.posts %}  <!--  {% for post in paginator.posts %}-->
+
+  {% for post in site.posts %}
     {% unless post.pinned %}
     <article class="post">
       <h1>
