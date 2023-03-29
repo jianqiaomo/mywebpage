@@ -15,7 +15,7 @@ pinned: false
 
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/jianqiaomo/mywebpage/master/images/HAAC_ada_poster_pitch.JPG" width="853" height="480"/>
+    <img src="https://raw.githubusercontent.com/jianqiaomo/mywebpage/master/images/HAAC_ada_poster_pitch.JPG"/>
     <p>Poster Pitch</p>
 </div>
 
