@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HAAC - A Hardware-Software Co-Design to Accelerate Garbled Circuits (2023 ISCA)
+title: HAAC - A Hardware-Software Co-Design to Accelerate Garbled Circuits
 date: 2023-03-28
 author: Jianqiao Mo
 tags: [Conference Paper]
@@ -8,6 +8,8 @@ comments: true
 toc: false
 pinned: false
 ---
+_2023 ISCA Paper_
+
 **Accepted in**:
 [2023 International Symposium on Computer Architecture (ISCA)](https://www.iscaconf.org/isca2023/program/) 
 

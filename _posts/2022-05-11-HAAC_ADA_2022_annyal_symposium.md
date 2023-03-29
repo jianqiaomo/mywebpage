@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Accelerating Garbled Circuits for Arbitrary Privacy-Preserving Computation (2022 ADA Poster)
+title: Accelerating Garbled Circuits for Arbitrary Privacy-Preserving Computation
 date: 2022-05-11
 author: Jianqiao Mo
 tags: [Poster]
@@ -8,6 +8,8 @@ comments: true
 toc: false
 pinned: false
 ---
+_2022 ADA Center Poster_
+
 **Student Poster**:
 [2022 Applications Driving Architectures (ADA) Center Annual Symposium](https://adacenter.org/symposium2022) 
 
