@@ -52,7 +52,7 @@ comments: true
     {% endif %}
   {% endfor %}
   
-  {% for post in paginator.posts %}
+  {% for post in site.posts %}
     {% unless post.pinned %}
     <article class="post">
       <h1>
