@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Activities
+title: 2022 ADA Symposium
 date: 2022-05-12
 author: Jianqiao Mo
 comments: true

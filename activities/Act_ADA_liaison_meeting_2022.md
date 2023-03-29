@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Activities
+title: 2022 ADA Liaison Meeting
 date: 2022-02-23
 author: Jianqiao Mo
 comments: true
