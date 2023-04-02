@@ -16,4 +16,4 @@ Joined [Computer Arch Day at Princeton](http://parallel.princeton.edu/news.html#
 </div>
 
 View Presentation Slides:
-<iframe src="https://onedrive.live.com/embed?cid=8795EDCABD3FFEB3&resid=8795EDCABD3FFEB3%21142&authkey=AO_yeIY5lHximXY&em=2" width="640" height="480" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://onedrive.live.com/embed?cid=8795EDCABD3FFEB3&resid=8795EDCABD3FFEB3%21142&authkey=AO_yeIY5lHximXY&em=2" frameborder="0" scrolling="no"></iframe>
