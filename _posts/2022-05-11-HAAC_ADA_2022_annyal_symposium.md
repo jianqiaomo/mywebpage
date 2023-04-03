@@ -25,6 +25,8 @@ _2022 ADA Center Poster_
 View Introduction Booklet:
 <iframe src="https://onedrive.live.com/embed?cid=8795EDCABD3FFEB3&resid=8795EDCABD3FFEB3%21140&authkey=AO7Z5ZNIDHWVRTs&em=2" width="100%" height="480" frameborder="0" scrolling="no"></iframe>
 
+***
 
-View Presentation Slides:
-<iframe src="https://onedrive.live.com/embed?cid=8795EDCABD3FFEB3&resid=8795EDCABD3FFEB3%21143&authkey=AB_Ttf6ReNkciDw&em=2" width="100%" height="480" frameborder="0" scrolling="no"></iframe>
+View [Presentation Slides](https://1drv.ms/b/s!ArP-P73K7ZWHgQ80M0CGTOIYWOuQ?e=LxnVX8).
+
+***
