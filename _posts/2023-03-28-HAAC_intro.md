@@ -10,7 +10,7 @@ pinned: false
 ---
 _2023 ISCA Paper_
 
-**Accepted in**:
+**Accepted to**:
 [2023 International Symposium on Computer Architecture (ISCA)](https://www.iscaconf.org/isca2023/program/) 
 
 **Date of Conference**: June 17–21, 2023
