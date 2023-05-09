@@ -22,6 +22,8 @@ permalink: /activities/
 
 
 ### Post Update
+- Update post: [FE-CTF2022 Hash Uppers Downers Solution Writeup](http://jqmo.top/FE-CTF2022/); _May.09, 2023_
+
 - Update post: [Princeton Arch Day](https://jqmo.top/activities/2023_PrincetonArchDay/); _Mar.31, 2023_
 
 - Update post: [ADA liaison meeting](http://jqmo.top/activities/2022_ADA_liaison_meeting/), 
