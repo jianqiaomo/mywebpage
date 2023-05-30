@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2023 HAAC Demo Link
+title: 2023 HAAC Demo Redirecting
 date: 2023-05-30
 author: Jianqiao Mo
 comments: false
@@ -10,4 +10,4 @@ pinned: false
 
 # Redirecting...
 
- <meta http-equiv="refresh" content="5;url=https://jqmo.top/404/">
+ <meta http-equiv="refresh" content="5;url=https://github.com/404/">
