@@ -7,4 +7,4 @@ comments: false
 toc: false
 pinned: false
 ---
- <meta http-equiv="refresh" content="5;url=https://jqmo.top/404/">
+ <meta http-equiv="refresh" content="5;url=https://www.youtube.com">
