@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: redirector
 title: 2023 HAAC Demo Redirecting
 date: 2023-05-30
 author: Jianqiao Mo
@@ -8,6 +8,6 @@ toc: false
 pinned: false
 ---
 
-# Redirecting...
+[//]: # (# Redirecting...)
 
  <meta http-equiv="refresh" content="5;url=https://github.com/404/">
