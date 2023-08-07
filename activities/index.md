@@ -12,6 +12,8 @@ permalink: /activities/
 
 
 ### Recent Activities
+- [Attending 2023 ISCA at Orlando World Center](http://jqmo.top/activities/2023_ISCA_Orlando/); _Jun. 19, 2023_
+
 - [Talk at Computer Architecture Day at Princeton](https://jqmo.top/activities/2023_PrincetonArchDay/); _Mar. 17, 2023_
 
 - [Volunteer in 2022 ISCA](https://jqmo.top/activities/2022_ISCA_volunteer/); _Jun. 18-22, 2022_
@@ -22,6 +24,8 @@ permalink: /activities/
 
 
 ### Post Update
+- Update post: 2023 ISCA; _Aug.07, 2023_
+
 - Update post: [FE-CTF2022 Hash Uppers Downers Solution Writeup](http://jqmo.top/FE-CTF2022/); _May.09, 2023_
 
 - Update post: [Princeton Arch Day](https://jqmo.top/activities/2023_PrincetonArchDay/); _Mar.31, 2023_
