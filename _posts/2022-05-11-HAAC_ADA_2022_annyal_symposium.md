@@ -23,7 +23,7 @@ _2022 ADA Center Poster_
 
 
 View Introduction Booklet:
-<iframe src="https://onedrive.live.com/embed?cid=8795EDCABD3FFEB3&resid=8795EDCABD3FFEB3%21140&authkey=AO7Z5ZNIDHWVRTs&em=2" width="100%" height="480" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://nyu0-my.sharepoint.com/personal/jm8782_nyu_edu/_layouts/15/embed.aspx?UniqueId=f2fc6c8b-c1ba-4da2-ab6a-243b21261258" width="100%" height="480" frameborder="0" scrolling="no"></iframe>
 
 ***
 

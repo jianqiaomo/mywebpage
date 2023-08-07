@@ -17,6 +17,6 @@ Joined [Computer Arch Day at Princeton](http://parallel.princeton.edu/news.html#
 
 ***
 
-View [Presentation Slides](https://1drv.ms/b/s!ArP-P73K7ZWHgQ7lHYpwJmIHjN_I?e=u7i0jR).
+View [Presentation Slides](https://nyu0-my.sharepoint.com/:b:/g/personal/jm8782_nyu_edu/EYts_PK6waJNq2okOyEmElgBeIQF9UiphHC2Ho_Ch-ROGw).
 
 ***
