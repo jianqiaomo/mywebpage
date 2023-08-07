@@ -12,7 +12,7 @@ _2023 ISCA Talk_
 
 **Date of Conference**: June 19, 2023
 
-Watch our talk (transcript available) or use [this link](https://nyu0-my.sharepoint.com/:v:/g/personal/jm8782_nyu_edu/EeoNTlnMNwNJup9bJBgiQ4MBXnuEVAgR-ThpsMT9sM3IUg):
+Watch our talk (transcript available) or use [**this link**](https://nyu0-my.sharepoint.com/:v:/g/personal/jm8782_nyu_edu/EeoNTlnMNwNJup9bJBgiQ4MBXnuEVAgR-ThpsMT9sM3IUg):
 
 <div style="max-width: 1280px">
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">

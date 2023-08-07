@@ -11,7 +11,7 @@ pinned: false
 
 **Date of Conference**: June 19, 2023
 
-Our program [session](https://www.iscaconf.org/isca2023/program/#:~:text=University%20of%20Maryland)-,2%3A00%20PM%20%E2%80%93%202%3A15%20PM,-HAAC%3A%20A%20Hardware).
+Our program [session](https://www.iscaconf.org/isca2023/program/#:~:text=2%3A15%20PM-,haac,-%3A%20A%20Hardware-Software).
 
 Other Moments:
 
