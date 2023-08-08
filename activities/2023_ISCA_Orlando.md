@@ -13,11 +13,14 @@ pinned: false
 
 Our program [session](https://www.iscaconf.org/isca2023/program/#:~:text=2%3A15%20PM-,haac,-%3A%20A%20Hardware-Software).
 
-Other Moments:
+***
+Other Moments: 
 
-<iframe src="https://nyu0-my.sharepoint.com/personal/jm8782_nyu_edu/_layouts/15/embed.aspx?UniqueId=5433e0bb-7544-4ea8-b482-bbae1cdd4a95" width="100%" height="360" frameborder="0" scrolling="no" allowfullscreen></iframe>
-<iframe src="https://nyu0-my.sharepoint.com/personal/jm8782_nyu_edu/_layouts/15/embed.aspx?UniqueId=a44fc075-104d-41ff-b02c-d4e7e91b9906" width="100%" height="360" frameborder="0" scrolling="no" allowfullscreen></iframe>
-<iframe src="https://nyu0-my.sharepoint.com/personal/jm8782_nyu_edu/_layouts/15/embed.aspx?UniqueId=73492936-eb38-4565-8939-2a265177cdee" width="100%" height="360" frameborder="0" scrolling="no" allowfullscreen></iframe>
+[Photo 1](https://nyu0-my.sharepoint.com/:i:/g/personal/jm8782_nyu_edu/EbvgM1REdahOtIK7rhzdSpUBEVsmrfomJc3K7GA9PZ_53Q)
 
+[Photo 2](https://nyu0-my.sharepoint.com/:i:/g/personal/jm8782_nyu_edu/EXXAT6RNEP9BsCzU5-kbmQYBKE2YEWIq2F727igx_iad6w)
+
+[Photo 3](https://nyu0-my.sharepoint.com/:i:/g/personal/jm8782_nyu_edu/ETYpSXM462VFiTkqJlF3ze4BmfKsc1zgsG7dkMx3dVTCYg)
+***
 
 I was also very happy to attend the "Meet A Senior Architect" program and had a talk with Prof. Hayden Kwok-Hay So.

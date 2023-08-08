@@ -21,9 +21,9 @@ _2022 ADA Center Poster_
     <p>Poster Pitch</p>
 </div>
 
+***
 
-View Introduction Booklet:
-<iframe src="https://nyu0-my.sharepoint.com/personal/jm8782_nyu_edu/_layouts/15/embed.aspx?UniqueId=9612b3fe-ea00-44e6-9a2c-2a7ec071f966" width="100%" height="480" frameborder="0" scrolling="no"></iframe>
+View [Introduction Booklet](https://nyu0-my.sharepoint.com/:b:/g/personal/jm8782_nyu_edu/Ef6zEpYA6uZEmiwqfsBx-WYBl8jZ8loUDTnBbfktewn12A).
 
 ***
 
