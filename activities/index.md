@@ -12,6 +12,18 @@ permalink: /activities/
 
 
 ### Recent Activities
+- HAAC: Find our [product](https://license.tov.med.nyu.edu/product/hardware-software-co-design-to-accelerate-garble-circuits). _Jun. 17, 2024_
+
+- [The Dante Youla Award 2024](https://1drv.ms/i/s!ArP-P73K7ZWHgnjOuMVy5SnLz7wX?e=Xp3o1A); _May. 07, 2024_
+  - I am very happy to be a recipient of [The Dante Youla Award](https://1drv.ms/b/s!ArP-P73K7ZWHgnd2OS7UbL9fnw8A?e=ctrhd3) for Graduate Research Excellence in Electrical Engineering.
+  - The award is given in honor of Professor Dante Youla of the Department of ECE. This award will be given to the graduate student who has made the most significant research contribution among all ECE graduate students in the past year.
+
+- [Hosting NYU Computer Architecture Day](https://www.linkedin.com/posts/nyutandonschoolofengineering_nyu-computer-architecture-day-2024-brings-activity-7193001375725682688-Rk0M/?utm_source=share&utm_medium=member_desktop); _Mar. 22, 2024_
+
+- Giving seminar at NYU Shanghai; _Feb. 06, 2024_
+
+- [Attending 2023 DISCC Workshop at MICRO](https://disccworkshop.org/); _Oct. 28, 2023_
+
 - [Attending 2023 ISCA at Orlando World Center](http://jqmo.top/activities/2023_ISCA_Orlando/); _Jun. 19, 2023_
 
 - [Talk at Computer Architecture Day at Princeton](https://jqmo.top/activities/2023_PrincetonArchDay/); _Mar. 17, 2023_
