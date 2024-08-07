@@ -23,6 +23,4 @@ Moment:
 
 ***
 
-Award Program:
-
-<iframe src="https://1drv.ms/b/s!ArP-P73K7ZWHgnfwlys1CexW1v2e?embed=1&em=2" width="476" height="288" frameborder="0" scrolling="no"></iframe>
+[Award Program](https://1drv.ms/b/s!ArP-P73K7ZWHgnfwlys1CexW1v2e?embed=1&em=2).
