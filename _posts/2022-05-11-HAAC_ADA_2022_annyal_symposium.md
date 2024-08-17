@@ -23,10 +23,10 @@ _2022 ADA Center Poster_
 
 ***
 
-View [Introduction Booklet](https://nyu0-my.sharepoint.com/:b:/g/personal/jm8782_nyu_edu/Ef6zEpYA6uZEmiwqfsBx-WYBl8jZ8loUDTnBbfktewn12A).
+View [Introduction Booklet](https://drive.google.com/file/d/1ylnPlQpkNRkMGNhuIDhqwH5YcWfDw0e9/view?usp=sharing).
 
 ***
 
-View [Presentation Slides](https://nyu0-my.sharepoint.com/:b:/g/personal/jm8782_nyu_edu/ET6BUKWVxBJAiPM7L7IQ_G0B35swmq3eTDmZ--igV0MhQA).
+View [Presentation Slides](https://drive.google.com/file/d/1k8lsIZKDTdWNRg1j0-lkYovaE-pdHOio/view?usp=sharing).
 
 ***

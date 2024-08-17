@@ -13,12 +13,10 @@ Joined [Computer Arch Day at Princeton](http://parallel.princeton.edu/news.html#
 
 ***
 
-Moment: [Photo 1](https://nyu0-my.sharepoint.com/:i:/g/personal/jm8782_nyu_edu/EaBctUadfQZFr5MHe4qKS6sB8BRh4rNM0Mxsohq4JGjVwA).
-
-<img src="https://onedrive.live.com/embed?resid=8795EDCABD3FFEB3%21308&authkey=%21AK3GVLKd_sY3GV8&width=4032&height=3024" width="1080" />
+Moment: [Photo 1](https://drive.google.com/file/d/1Sk6neF8jfzJRM94-ZdBikAXWP26dD3rY/view?usp=sharing).
 
 ***
 
-View [Presentation Slides](https://nyu0-my.sharepoint.com/:b:/g/personal/jm8782_nyu_edu/EYts_PK6waJNq2okOyEmElgBeIQF9UiphHC2Ho_Ch-ROGw).
+View [Presentation Slides](https://drive.google.com/file/d/1F5DezlnsM63n_POzq03_3eYmtJkVbAeU/view?usp=sharing).
 
 ***

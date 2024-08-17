@@ -14,16 +14,11 @@ _2023 ISCA Talk_
 
 ***
 
-Watch our talk [**here**](https://nyu0-my.sharepoint.com/:v:/g/personal/jm8782_nyu_edu/EeoNTlnMNwNJup9bJBgiQ4MBXnuEVAgR-ThpsMT9sM3IUg)
-(transcript available).
-
-<a href="https://nyu0-my.sharepoint.com/:v:/g/personal/jm8782_nyu_edu/EeoNTlnMNwNJup9bJBgiQ4MBXnuEVAgR-ThpsMT9sM3IUg">
-<img src="https://onedrive.live.com/embed?resid=8795EDCABD3FFEB3%21311&authkey=%21AFfnvYwK-wOLIdg&width=1024" width="1024" height="auto" />
-</a>
+Watch our talk [**here**](https://drive.google.com/file/d/11DMoWB610ABptRIw4NEhnFsa5S8LpI9j/view?usp=sharing).
 
 ***
 
-View [Presentation Slides](https://nyu0-my.sharepoint.com/:b:/g/personal/jm8782_nyu_edu/Eeirm988MaBBurL_KkE5hfkB1rsXxQWAv-ToUdftdPlY2g?e=xhihVw).
+View [Presentation Slides](https://drive.google.com/file/d/13w4n5IO5-J_PgWtfDCAR-Swh0plHjrkg/view?usp=sharing).
 
 ***
 
