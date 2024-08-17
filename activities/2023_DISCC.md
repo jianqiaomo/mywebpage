@@ -13,8 +13,6 @@ Attending 2023 The 2nd [DISCC Workshop](https://disccworkshop.org/index.html) at
 
 ***
 
-Moment: [Photo 1](https://1drv.ms/i/s!ArP-P73K7ZWHgnqQcSX4s3_BPHZg)
-
-<img src="https://1drv.ms/i/s!ArP-P73K7ZWHgnqQcSX4s3_BPHZg?embed=1&width=1024" width="1024" height="auto" />
+Moment: [Photo 1](https://drive.google.com/file/d/1H0S5Qt18W66BTyQQC4nQWLFNN2SpnBZx/view?usp=sharing)
 
 ***

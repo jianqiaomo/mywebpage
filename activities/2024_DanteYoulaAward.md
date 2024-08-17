@@ -17,10 +17,8 @@ student who has made the most significant research contribution among all ECE gr
 
 ***
 
-Moment: [Photo 1](https://1drv.ms/i/s!ArP-P73K7ZWHgnjammOR_IV1QktK)
-
-<img src="https://1drv.ms/i/s!ArP-P73K7ZWHgnjammOR_IV1QktK?embed=1&width=1024" width="1024" height="auto" />
+Moment: [Photo 1](https://drive.google.com/file/d/17DJh8j1HiVvOrDiUNwiBHKz8HXxlJpho/view?usp=sharing)
 
 ***
 
-[Award Program](https://1drv.ms/b/s!ArP-P73K7ZWHgnfwlys1CexW1v2e?embed=1&em=2).
+[Award Program](https://drive.google.com/file/d/1n6aQl1r2jIp2jUXZ3HLSEXVa9tlUxOWX/view?usp=sharing).
