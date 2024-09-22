@@ -179,6 +179,12 @@ li {
       margin: 0 auto ($li-bottom-space * $li-child-size-ratio) ($li-bullets-width * $li-child-size-ratio);
     }
   }
+  time {
+    color: $base-lighten-color;
+    font-size: $small-font-size;
+    font-weight: 300;
+    margin-left: 3px;
+  }
 }
 
 // Definition list

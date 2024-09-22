@@ -12,7 +12,6 @@ permalink: /activities/
 
 ### 2024
 - HAAC Patent <time>{{ "Jun-17-2024" }}</time>
-
   - Our innovative [HAAC product](https://license.tov.med.nyu.edu/product/hardware-software-co-design-to-accelerate-garble-circuits) is in the patent process.
 
 - [Dante Youla Award 2024](https://jqmo.top/activities/2024_DanteYoulaAward/); <time>{{ "May-07-2024" }}</time>
