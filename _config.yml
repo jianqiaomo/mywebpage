@@ -38,10 +38,11 @@ navigation:
     url: /
   - name: About Me
     url: /aboutme
-  - name: Activities
-    url: /activities
-  - name: Works
+#  - name: Works
+  - name: Research
     url: /works
+  - name: Recent Activities
+    url: /activities
 
 # 每页的文章数
 paginate: 10

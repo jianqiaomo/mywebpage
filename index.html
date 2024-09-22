@@ -52,42 +52,42 @@ comments: true
     {% endif %}
   {% endfor %}
 
-  {% for post in site.posts %}
-    {% unless post.pinned %}
-    <article class="post">
-      <h1>
-        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-      </h1>
+<!--  {% for post in site.posts %}-->
+<!--    {% unless post.pinned %}-->
+<!--    <article class="post">-->
+<!--      <h1>-->
+<!--        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>-->
+<!--      </h1>-->
 
-      <div clsss="meta">
-        
-        <span class="author">
-          {{ post.author }}
-        </span>
-            
-        <span class="date">
-          {{ post.date | date: "%Y-%m-%d" }}
-        </span>
+<!--      <div clsss="meta">-->
+<!--        -->
+<!--        <span class="author">-->
+<!--          {{ post.author }}-->
+<!--        </span>-->
+<!--            -->
+<!--        <span class="date">-->
+<!--          {{ post.date | date: "%Y-%m-%d" }}-->
+<!--        </span>-->
 
-        <ul class="tag">
-          {% for tag in post.tags %}
-          <li>
-            <a href="{{ site.url }}{{ site.baseurl }}/tags#{{ tag }}">
-              {{ tag }}
-            </a>
-          </li>
-          {% endfor %}
-        </ul>
-      </div>
+<!--        <ul class="tag">-->
+<!--          {% for tag in post.tags %}-->
+<!--          <li>-->
+<!--            <a href="{{ site.url }}{{ site.baseurl }}/tags#{{ tag }}">-->
+<!--              {{ tag }}-->
+<!--            </a>-->
+<!--          </li>-->
+<!--          {% endfor %}-->
+<!--        </ul>-->
+<!--      </div>-->
 
-      <div class="entry">
-        {{ post.excerpt | truncate: 200 }}
-      </div>
+<!--      <div class="entry">-->
+<!--        {{ post.excerpt | truncate: 200 }}-->
+<!--      </div>-->
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-    {% endunless %}
-  {% endfor %}
+<!--      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>-->
+<!--    </article>-->
+<!--    {% endunless %}-->
+<!--  {% endfor %}-->
 </div>
 
 <div class="pagination">
