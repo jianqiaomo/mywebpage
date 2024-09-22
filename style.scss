@@ -626,6 +626,14 @@ nav {
   }
 }
 
+.p {
+  time {
+    color: $base-lighten-color;
+    font-size: $small-font-size;
+    font-weight: 300;
+    margin-left: 3px;
+  }
+}
 // Archive
 .archive {
   a {
