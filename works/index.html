@@ -8,8 +8,7 @@ permalink: /works/
   <h2>No post found</h2>
 {% endif %}
 
-<!--<ul class="archive">-->
-<ul class="posts">
+<ul class="archive">
   {% for post in site.posts %}
 <!--    {% unless post.next %}-->
 <!--      <h2>{{ post.date | date: '%Y' }}</h2>-->
@@ -35,7 +34,7 @@ permalink: /works/
     {% unless post.pinned %}
       <article class="post">
         <h3>
-          <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+          <a style="color: inherit" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
         </h3>
 
         <div clsss="meta">
@@ -51,7 +50,7 @@ permalink: /works/
           <ul class="tag">
             {% for tag in post.tags %}
             <li>
-              <a href="{{ site.url }}{{ site.baseurl }}/tags#{{ tag }}">
+              <a style="margin: 3px 3px 3px 0; padding: .5px 4px; color: #343a40; background-color: #e9ecef; border-radius: 3px" href="{{ site.url }}{{ site.baseurl }}/tags#{{ tag }}">
                 {{ tag }}
               </a>
             </li>
