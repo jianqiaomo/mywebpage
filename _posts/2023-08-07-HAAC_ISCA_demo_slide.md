@@ -6,7 +6,7 @@ author: Jianqiao Mo
 tags: [Conference Paper]
 comments: true
 toc: false
-pinned: true
+pinned: false
 ---
 _2023 ISCA Talk_
 
