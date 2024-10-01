@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Towards Fast and Scalable Private Inference
-date: Sep-30-2024
+date: 2024-09-30
 author: Jianqiao Mo
 tags: [Paper]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HAAC - A Hardware-Software Co-Design to Accelerate Garbled Circuits
-date: Mar-28-2023
+date: 2023-03-28
 author: Jianqiao Mo
 tags: [Paper]
 comments: true

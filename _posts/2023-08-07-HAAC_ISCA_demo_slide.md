@@ -1,7 +1,7 @@
 ---
 layout: post
 title: (Video Slide) HAAC A Hardware-Software Co-Design to Accelerate Garbled Circuits
-date: Aug-07-2023
+date: 2023-08-07
 author: Jianqiao Mo
 tags: [Conference Paper]
 comments: true

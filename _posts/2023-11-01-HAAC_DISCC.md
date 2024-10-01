@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Accelerating Garbled Circuits by Hardware-Software Co-Design
-date: Nov-01-2023
+date: 2023-11-01
 author: Jianqiao Mo
 tags: [Paper]
 comments: true

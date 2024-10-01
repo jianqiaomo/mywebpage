@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Accelerating Garbled Circuits for Arbitrary Privacy-Preserving Computation
-date: May-11-2022
+date: 2022-05-11
 author: Jianqiao Mo
 tags: [Poster]
 comments: true
