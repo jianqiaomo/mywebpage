@@ -39,11 +39,11 @@ navigation:
   - name: About Me
     url: /aboutme
   - name: Research
-  - url: /tags
+    url: /tags
   - name: Recent Activities
     url: /activities
 #  - name: Works
-#  - url: /works
+#    url: /works
 
 # 每页的文章数
 paginate: 10
