@@ -8,14 +8,16 @@ permalink: /tags/
   <h2>No post found</h2>
 {% endif %}
 
-<p>
-  Sort by:
-  <li>
-      <a href="/works">
-        <span>Year</span>
-      </a>
+<div class="tags">
+  <ul class="label">
+    <li>
+      Sort by: <a href="/works">
+      <span>Year</span>
+    </a>
     </li>
-</p>
+  </ul>
+</div>
+<p></p>
 <div class="tags">
   <ul class="label">
     {% for tag in site.tags %}
