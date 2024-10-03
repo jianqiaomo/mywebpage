@@ -40,7 +40,8 @@ navigation:
     url: /aboutme
 #  - name: Works
   - name: Research
-    url: /works
+#    url: /works
+  - url: /tags
   - name: Recent Activities
     url: /activities
 
