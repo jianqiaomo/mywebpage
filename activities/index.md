@@ -10,13 +10,20 @@ pinned: false
 permalink: /activities/
 ---
 
+### 2025
+- I was happy to [attend ISCA 2025](https://jqmo.top/activities/2025_ISCA_Tokyo/) in Tokyo to introduce our paper zkSpeed and meet many amazing people. <time>{{ "Jun-15-2025" }}</time>
+
+- I am excited to begin my summer [research internship](https://www.linkedin.com/posts/jianqiao-cambridge-mo_intel-intern-intel4intern-activity-7338724221314887681-3Xf2?utm_source=share&utm_medium=member_desktop&rcm=ACoAADHZVI8B13w59GE-WzfiOWLu2Y4QyrXP96g) at Intel. <time>{{ "May-05-2025" }}</time>
+
+- Our paper ([zkSpeed](https://dl.acm.org/doi/full/10.1145/3695053.3731021)) on HyperPlonk ZKP accelerator design has been accepted to ISCA 2025. <time>{{ "Mar-21-2025" }}</time>
+
 ### 2024
-- Our paper (PriVit) on private vision transformer has been accepted to TMLR. <time>{{ "Sep-09-2024" }}</time>
+- Our paper ([PriVit](https://openreview.net/forum?id=3CmPvcYJnm)) on private vision transformer has been accepted to TMLR. <time>{{ "Sep-09-2024" }}</time>
 
 - I served as reviewer for Journal of Information Security and Applications. <time>{{ "Aug-10-2024" }}</time>
 
 - HAAC Patent <time>{{ "Jun-17-2024" }}</time>
-  - Our innovative [HAAC product](https://license.tov.med.nyu.edu/product/hardware-software-co-design-to-accelerate-garble-circuits) is in the patent process.
+  - Our innovative [HAAC product](https://license.tov.med.nyu.edu/product/hardware-software-co-design-to-accelerate-garble-circuits) is in the [patent](https://patentcenter.uspto.gov/applications/18745706) process.
 
 - [Dante Youla Award 2024](https://jqmo.top/activities/2024_DanteYoulaAward/). <time>{{ "May-07-2024" }}</time>
   - Recipient of the Dante Youla Award for graduate research excellence.
