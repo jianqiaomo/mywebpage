@@ -4,6 +4,9 @@ Welcome to Jianqiao Mo's page!
 I'm an ECE PhD student at New York University ([BAAHL](https://wp.nyu.edu/baahl/)), 
 advised by [Brandon Reagen](https://engineering.nyu.edu/faculty/brandon-reagen)
 and also collaborating with [Siddharth Garg](https://engineering.nyu.edu/faculty/siddharth-garg).
+Before NYU, I earned my Bachelor's degree from Nanjing University where
+I worked as a research intern advised by Prof. [Zhongfeng Wang](https://scholar.google.com/citations?hl=en&user=faC-qekAAAAJ&view_op=list_works&sortby=pubdate).
+My research there focused on reducing the computational cost of DNN.
 
 **Keywords**: computer architecture, hardware-software co-design, privacy-preserving computation, 
 zero knowledge proofs, machine learning. 
@@ -17,14 +20,6 @@ zero knowledge proofs, machine learning.
 <a href="https://scholar.google.com/citations?user={{ site.footer-links.googlescholar }}">GoogleScholar</a>,
 <a href="https://orcid.org/0000-0001-9533-8183">ORCID</a>
 </div>
-
-***
-
-[Research](https://jqmo.top/tags/): My research topics / projects.
-
-***
-
-[Recent Activities](https://jqmo.top/activities/): My recent research activities and latest updates.
 
 ***
 
@@ -69,10 +64,13 @@ with the goal of advancing end-to-end data privacy and integrity.
   </div>
 </section>
 
-Before NYU, I earned my Bachelor's degree from Nanjing University where
-I worked as a research intern advised by Prof. [Zhongfeng Wang](https://scholar.google.com/citations?hl=en&user=faC-qekAAAAJ&view_op=list_works&sortby=pubdate).
-My research there focused on reducing the computational cost of deep neural networks by 
-optimizing dynamic exit branches.
+***
+
+[Research](https://jqmo.top/tags/): My research topics / projects.
+
+***
+
+[Recent Activities](https://jqmo.top/activities/): My recent research activities and latest updates.
 
 **Reference**: 
 
