@@ -23,7 +23,7 @@ html {
 body {
   font-family: $base-font;
   color: $base-color;
-  line-height: 1.7em;
+  line-height: 1.5em;
 }
 
 .container {
@@ -73,7 +73,7 @@ h6 {
 
 p {
   color: $text-color;
-  margin: 1em 0;
+  margin: .45em 0;
   time {
     color: $base-lighten-color;
     font-size: $small-font-size;
@@ -573,12 +573,9 @@ nav {
 
 .research-feature-text {
   flex: 1 1 auto;
-  font-family: "Lato", Verdana, Helvetica, sans-serif;
-  font-size: 14px;
   line-height: 1.35;
 
   h3 {
-    font-family: "Lato", Verdana, Helvetica, sans-serif;
     font-size: 14px;
     font-weight: 700;
     line-height: 1.25;
@@ -592,7 +589,6 @@ nav {
   }
 
   strong {
-    font-family: "Lato", Verdana, Helvetica, sans-serif;
     font-size: 14px;
   }
 }
