@@ -592,9 +592,7 @@ nav {
   margin: 2em 0;
 
   @include mobile {
-    align-items: flex-start;
-    flex-direction: column;
-    gap: 12px;
+    gap: 14px;
   }
 }
 
@@ -602,7 +600,8 @@ nav {
   flex: 0 0 36%;
 
   @include mobile {
-    width: 100%;
+    flex: 0 0 36%;
+    max-width: 36%;
   }
 
   img {
