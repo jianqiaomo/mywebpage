@@ -1,0 +1,68 @@
+Email: &nbsp; **jqmo@nyu,edu**
+
+Welcome to Jianqiao Mo's page! 
+I'm an ECE PhD student at New York University ([BAAHL](https://wp.nyu.edu/baahl/)), 
+advised by [Brandon Reagen](https://engineering.nyu.edu/faculty/brandon-reagen)
+and also collaborating with [Siddharth Garg](https://engineering.nyu.edu/faculty/siddharth-garg).
+
+**Keywords**: computer architecture, hardware-software co-design, privacy-preserving computation, 
+zero knowledge proofs, machine learning. 
+
+***
+
+<div style="text-align: center;">
+<a href="https://drive.google.com/file/d/1JeKeQL3mNHs1eISVBEbWTiLwYkOwQRv0/view?usp=sharing">Resume</a>, 
+<a href="https://github.com/{{ site.footer-links.github }}">Github</a>,
+<a href="https://www.linkedin.com/in/{{ site.footer-links.linkedin }}">Linkedin</a>,
+<a href="https://scholar.google.com/citations?user={{ site.footer-links.googlescholar }}">GoogleScholar</a>,
+<a href="https://orcid.org/0000-0001-9533-8183">ORCID</a>
+</div>
+
+***
+
+[Research](https://jqmo.top/tags/): My research topics / projects.
+
+***
+
+[Recent Activities](https://jqmo.top/activities/): My recent research activities and latest updates.
+
+***
+
+My research focuses on hardware acceleration for cryptography, 
+with the goal of advancing end-to-end data privacy and integrity.
+
+### Privacy-Preserving Computation for End-To-End Data Privacy
+
+I am developing specialized hardware systems to accelerate **privacy-preserving computation**
+([secure multi-party computation](https://en.wikipedia.org/wiki/Secure_multi-party_computation)).
+
+My work includes accelerators for cryptographic protocols (particularly Garbled Circuits (GC) [1,2]).
+
+It is useful for enabling "private inference" in machine learning.
+
+<div align="center">
+<figure>
+  <img src="https://raw.githubusercontent.com/jianqiaomo/mywebpage/master/images/ComputingFrontiersPPC-system_backup.jpg" alt="PPC system" width="400" />
+  <figcaption> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Figure: Applying privacy-preserving computation to private inference. </figcaption>
+</figure>
+</div>
+
+### Zero-Knowledge Proofs for Data Integrity
+
+I am also working on hardware accelerators for **zero-knowledge proofs** (zkp), which allow the verification 
+of data integrity by proving the correctness of computations without revealing the underlying data.
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jianqiaomo/mywebpage/master/images/zkp_cartoon-system_backup.jpg" alt="ZKP system" width="360" />
+  <figcaption> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Figure: An example of zero-knowledge proof. </figcaption>
+</div>
+
+Before NYU, I earned my Bachelor's degree from Nanjing University where
+I worked as a research intern advised by Prof. [Zhongfeng Wang](https://scholar.google.com/citations?hl=en&user=faC-qekAAAAJ&view_op=list_works&sortby=pubdate).
+My research there focused on reducing the computational cost of deep neural networks by 
+optimizing dynamic exit branches.
+
+**Reference**: 
+
+[1] Yakoubov, Sophia. "[A gentle introduction to yao鈥檚 garbled circuits.](https://web.mit.edu/sonka89/www/papers/2017ygc.pdf)" (2017). \
+[2] Navarro, Ignacio. "[On Garbled Circuits.](https://www.imperial.ac.uk/media/imperial-college/faculty-of-engineering/computing/public/1718-ug-projects/Ignacio-Navarro-On-Garbled-Circuits.pdf)" (2018).

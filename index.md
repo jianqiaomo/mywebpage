@@ -5,8 +5,7 @@ date: 2020-08-09
 author: Jianqiao Mo
 comments: true
 toc: false
-pinned: true
 show_avatar: true
-permalink: /aboutme/
+permalink: /
 ---
 {% include aboutme.md %}
