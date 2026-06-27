@@ -1,19 +1,25 @@
-Email: &nbsp; **jqmo@nyu,edu**
-
-Welcome to Jianqiao Mo's page! 
-I'm an ECE PhD student at New York University ([BAAHL](https://wp.nyu.edu/baahl/)), 
-advised by [Brandon Reagen](https://engineering.nyu.edu/faculty/brandon-reagen)
-and also collaborating with [Siddharth Garg](https://engineering.nyu.edu/faculty/siddharth-garg).
-Before NYU, I earned my Bachelor's degree from Nanjing University where
-I worked as a research intern advised by Prof. [Zhongfeng Wang](https://scholar.google.com/citations?hl=en&user=faC-qekAAAAJ&view_op=list_works&sortby=pubdate).
-My research there focused on reducing the computational cost of DNN.
-
-**Keywords**: computer architecture, hardware-software co-design, privacy-preserving computation, 
-zero knowledge proofs, machine learning. 
+<div class="profile-intro">
+  <p>Email: &nbsp; <strong>jqmo@nyu,edu</strong></p>
+  <p>
+    Welcome to Jianqiao Mo's page! I'm an ECE PhD student at New York University
+    (<a href="https://wp.nyu.edu/baahl/">BAAHL</a>), advised by
+    <a href="https://engineering.nyu.edu/faculty/brandon-reagen">Brandon Reagen</a>
+    and also collaborating with
+    <a href="https://engineering.nyu.edu/faculty/siddharth-garg">Siddharth Garg</a>.
+    Before NYU, I earned my Bachelor's degree from Nanjing University where I worked as a
+    research intern advised by Prof.
+    <a href="https://scholar.google.com/citations?hl=en&user=faC-qekAAAAJ&view_op=list_works&sortby=pubdate">Zhongfeng Wang</a>.
+    My research there focused on reducing the computational cost of DNN.
+  </p>
+  <p>
+    <strong>Keywords</strong>: computer architecture, hardware-software co-design,
+    privacy-preserving computation, zero knowledge proofs, machine learning.
+  </p>
+</div>
 
 ***
 
-<div style="text-align: center;">
+<div class="profile-links">
 <a href="https://drive.google.com/file/d/1JeKeQL3mNHs1eISVBEbWTiLwYkOwQRv0/view?usp=sharing">Resume</a>, 
 <a href="https://github.com/{{ site.footer-links.github }}">Github</a>,
 <a href="https://www.linkedin.com/in/{{ site.footer-links.linkedin }}">Linkedin</a>,

@@ -22,8 +22,20 @@ html {
 
 body {
   font-family: $base-font;
+  font-size: $base-font-size;
   color: $base-color;
   line-height: 1.5em;
+}
+
+td,
+th,
+tr,
+p,
+a,
+strong,
+b {
+  font-family: $base-font;
+  font-size: $base-font-size;
 }
 
 .container {
@@ -543,6 +555,19 @@ nav {
   .read-more {
     font-size: 15px;
   }
+}
+
+.profile-intro {
+  p {
+    line-height: 1.45;
+    margin: 0 0 .45em;
+  }
+}
+
+.profile-links {
+  line-height: 1.45;
+  margin: .45em 0;
+  text-align: center;
 }
 
 .research-feature {
