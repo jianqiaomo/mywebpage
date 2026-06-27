@@ -31,31 +31,43 @@ zero knowledge proofs, machine learning.
 My research focuses on hardware acceleration for cryptography, 
 with the goal of advancing end-to-end data privacy and integrity.
 
-### Privacy-Preserving Computation for End-To-End Data Privacy
+<section class="research-feature">
+  <div class="research-feature-media">
+    <img src="https://raw.githubusercontent.com/jianqiaomo/mywebpage/master/images/ComputingFrontiersPPC-system_backup.jpg" alt="PPC system" />
+  </div>
+  <div class="research-feature-text">
+    <h3>Privacy-Preserving Computation for End-To-End Data Privacy</h3>
+    <p>
+      I am developing specialized hardware systems to accelerate <strong>privacy-preserving computation</strong>
+      (<a href="https://en.wikipedia.org/wiki/Secure_multi-party_computation">secure multi-party computation</a>).
+    </p>
+    <p>
+      My work includes accelerators for cryptographic protocols (particularly Garbled Circuits (GC) [1,2]).
+    </p>
+    <p>
+      It is useful for enabling "private inference" in machine learning.
+    </p>
+    <p class="research-feature-caption">
+      Figure: Applying privacy-preserving computation to private inference.
+    </p>
+  </div>
+</section>
 
-I am developing specialized hardware systems to accelerate **privacy-preserving computation**
-([secure multi-party computation](https://en.wikipedia.org/wiki/Secure_multi-party_computation)).
-
-My work includes accelerators for cryptographic protocols (particularly Garbled Circuits (GC) [1,2]).
-
-It is useful for enabling "private inference" in machine learning.
-
-<div align="center">
-<figure>
-  <img src="https://raw.githubusercontent.com/jianqiaomo/mywebpage/master/images/ComputingFrontiersPPC-system_backup.jpg" alt="PPC system" width="400" />
-  <figcaption> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Figure: Applying privacy-preserving computation to private inference. </figcaption>
-</figure>
-</div>
-
-### Zero-Knowledge Proofs for Data Integrity
-
-I am also working on hardware accelerators for **zero-knowledge proofs** (zkp), which allow the verification 
-of data integrity by proving the correctness of computations without revealing the underlying data.
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jianqiaomo/mywebpage/master/images/zkp_cartoon-system_backup.jpg" alt="ZKP system" width="360" />
-  <figcaption> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Figure: An example of zero-knowledge proof. </figcaption>
-</div>
+<section class="research-feature">
+  <div class="research-feature-media">
+    <img src="https://raw.githubusercontent.com/jianqiaomo/mywebpage/master/images/zkp_cartoon-system_backup.jpg" alt="ZKP system" />
+  </div>
+  <div class="research-feature-text">
+    <h3>Zero-Knowledge Proofs for Data Integrity</h3>
+    <p>
+      I am also working on hardware accelerators for <strong>zero-knowledge proofs</strong> (zkp), which allow
+      the verification of data integrity by proving the correctness of computations without revealing the underlying data.
+    </p>
+    <p class="research-feature-caption">
+      Figure: An example of zero-knowledge proof.
+    </p>
+  </div>
+</section>
 
 Before NYU, I earned my Bachelor's degree from Nanjing University where
 I worked as a research intern advised by Prof. [Zhongfeng Wang](https://scholar.google.com/citations?hl=en&user=faC-qekAAAAJ&view_op=list_works&sortby=pubdate).

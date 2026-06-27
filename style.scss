@@ -544,6 +544,50 @@ nav {
   }
 }
 
+.research-feature {
+  display: flex;
+  align-items: center;
+  gap: 28px;
+  margin: 2em 0;
+
+  @include mobile {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 12px;
+  }
+}
+
+.research-feature-media {
+  flex: 0 0 36%;
+
+  @include mobile {
+    width: 100%;
+  }
+
+  img {
+    margin: 0 auto;
+    width: 100%;
+  }
+}
+
+.research-feature-text {
+  flex: 1 1 auto;
+
+  h3 {
+    line-height: 1.4em;
+    margin-top: 0;
+  }
+
+  p {
+    margin: .75em 0;
+  }
+}
+
+.research-feature-caption {
+  color: $base-lighten-color;
+  font-size: $small-font-size;
+}
+
 .page {
 //  margin: 40px;
 
