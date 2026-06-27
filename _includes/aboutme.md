@@ -34,7 +34,9 @@ with the goal of advancing end-to-end data privacy and integrity.
 
 <section class="research-feature">
   <div class="research-feature-media">
-    <img src="https://raw.githubusercontent.com/jianqiaomo/mywebpage/master/images/ComputingFrontiersPPC-system_backup.jpg" alt="PPC system" />
+    <a href="#ppc-system-lightbox" class="research-feature-image-link" aria-label="Open PPC system image">
+      <img src="https://raw.githubusercontent.com/jianqiaomo/mywebpage/master/images/ComputingFrontiersPPC-system_backup.jpg" alt="PPC system" />
+    </a>
   </div>
   <div class="research-feature-text">
     <h3>Privacy-Preserving Computation for End-To-End Data Privacy</h3>
@@ -54,9 +56,15 @@ with the goal of advancing end-to-end data privacy and integrity.
   </div>
 </section>
 
+<a href="#" id="ppc-system-lightbox" class="image-lightbox" aria-label="Close PPC system image">
+  <img src="https://raw.githubusercontent.com/jianqiaomo/mywebpage/master/images/ComputingFrontiersPPC-system_backup.jpg" alt="PPC system" />
+</a>
+
 <section class="research-feature">
   <div class="research-feature-media">
-    <img src="https://raw.githubusercontent.com/jianqiaomo/mywebpage/master/images/zkp_cartoon-system_backup.jpg" alt="ZKP system" />
+    <a href="#zkp-system-lightbox" class="research-feature-image-link" aria-label="Open ZKP system image">
+      <img src="https://raw.githubusercontent.com/jianqiaomo/mywebpage/master/images/zkp_cartoon-system_backup.jpg" alt="ZKP system" />
+    </a>
   </div>
   <div class="research-feature-text">
     <h3>Zero-Knowledge Proofs for Data Integrity</h3>
@@ -69,6 +77,10 @@ with the goal of advancing end-to-end data privacy and integrity.
     </p>
   </div>
 </section>
+
+<a href="#" id="zkp-system-lightbox" class="image-lightbox" aria-label="Close ZKP system image">
+  <img src="https://raw.githubusercontent.com/jianqiaomo/mywebpage/master/images/zkp_cartoon-system_backup.jpg" alt="ZKP system" />
+</a>
 
 ***
 

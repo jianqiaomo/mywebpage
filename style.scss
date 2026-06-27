@@ -610,6 +610,35 @@ nav {
   }
 }
 
+.research-feature-image-link {
+  cursor: zoom-in;
+  display: block;
+}
+
+.image-lightbox {
+  align-items: center;
+  background: rgba(0, 0, 0, .82);
+  cursor: zoom-out;
+  display: none;
+  inset: 0;
+  justify-content: center;
+  padding: 24px;
+  position: fixed;
+  z-index: 20;
+
+  &:target {
+    display: flex;
+  }
+
+  img {
+    border-radius: 3px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, .35);
+    max-height: 92vh;
+    max-width: 92vw;
+    object-fit: contain;
+  }
+}
+
 .research-feature-text {
   flex: 1 1 auto;
   line-height: 1.35;
