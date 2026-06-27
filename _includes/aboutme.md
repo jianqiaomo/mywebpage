@@ -74,5 +74,5 @@ with the goal of advancing end-to-end data privacy and integrity.
 
 **Reference**: 
 
-[1] Yakoubov, Sophia. "[A gentle introduction to yao鈥檚 garbled circuits.](https://web.mit.edu/sonka89/www/papers/2017ygc.pdf)" (2017). \
+[1] Yakoubov, Sophia. "[A gentle introduction to yao garbled circuits.](https://web.mit.edu/sonka89/www/papers/2017ygc.pdf)" (2017). \
 [2] Navarro, Ignacio. "[On Garbled Circuits.](https://www.imperial.ac.uk/media/imperial-college/faculty-of-engineering/computing/public/1718-ug-projects/Ignacio-Navarro-On-Garbled-Circuits.pdf)" (2018).
