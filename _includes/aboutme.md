@@ -1,7 +1,7 @@
 <div class="profile-intro">
   <p>Email: &nbsp; <strong>jqmo@nyu,edu</strong></p>
   <p>
-    Welcome to Jianqiao Mo's page! I'm an ECE PhD student at New York University
+    I'm an ECE PhD student at New York University
     (<a href="https://wp.nyu.edu/baahl/">BAAHL</a>), advised by
     <a href="https://engineering.nyu.edu/faculty/brandon-reagen">Brandon Reagen</a>
     and also collaborating with
