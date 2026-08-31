@@ -139,6 +139,37 @@ name {
   line-height: 1.35;
 }
 
+.awards-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.awards-list .award-row {
+  display: grid;
+  grid-template-columns: 7.25em minmax(0, 1fr);
+  column-gap: 0.4em;
+  align-items: start;
+}
+
+.awards-list .award-date {
+  white-space: nowrap;
+}
+
+.activity-tag {
+  display: inline-block;
+  margin: 0 0.45em 0 0.3em;
+  padding: 1px 5px;
+  border: 1px solid #c9ced3;
+  border-radius: 3px;
+  background: #f4f5f6;
+  color: #3f464d;
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 11px;
+  line-height: 1.3;
+  vertical-align: baseline;
+  white-space: nowrap;
+}
+
 .one {
   width: 160px;
   height: 160px;
