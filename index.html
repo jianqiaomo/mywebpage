@@ -122,7 +122,7 @@
             <tbody>
               <tr>
                 <td style="padding:20px;width:100%;vertical-align:middle">
-                  <heading>Activities</heading>
+                  <heading id="activities">Activities</heading>
                   <p><strong>2026</strong></p>
                   <ul>
                     <li>
@@ -232,7 +232,7 @@
                   <ul>
                     <li>
                       <time datetime="2024-09-09">[Sep 9, 2024]</time>
-                      Our paper <a href="https://openreview.net/forum?id=3CmPvcYJnm">PriViT</a> on private vision
+                      Our paper <a href="/posts_html/Privit/">PriViT</a> on private vision
                       transformers was accepted to TMLR.
                     </li>
                     <li>
@@ -353,6 +353,9 @@
                       <time datetime="2022-05-10">[May 10, 2022]</time>
                       <span class="activity-tag">Talks</span>
                       <a href="https://jqmo.top/activities/2022_ADA_symposium/">Attended the ADA Annual Symposium</a>.
+                      <ul>
+                        <li><a href="/posts_html/HAAC_ADA_2022_annyal_symposium/">Poster pitch and presentation details</a>.</li>
+                      </ul>
                     </li>
                     <li>
                       <time datetime="2022-02-23">[Feb 23, 2022]</time>
@@ -382,21 +385,40 @@
               <tr>
                 <td style="padding:20px;width:25%;vertical-align:middle">
                   <div class="one">
-                    <img src="images/zkp_cartoon-system_backup.jpg" width="160" alt="Zero-knowledge proof research"
+                    <img src="images/haac_example_fig_4.jpg" width="160" alt="HAAC garbled circuit acceleration"
                       loading="lazy">
                   </div>
                 </td>
                 <td style="padding:20px;width:75%;vertical-align:middle">
-                  <papertitle>[fixme]</papertitle>
+                  <papertitle>HAAC: A Hardware-Software Co-Design to Accelerate Garbled Circuits</papertitle>
                   <br>
-                  Gaurav Kuwar, Alhad Daftardar, <strong>Jianqiao Mo</strong>, Siddharth Garg, Brandon Reagen
+                  <strong>Jianqiao Mo</strong>, Jayanth Gopinath, Brandon Reagen
                   <br>
-                  <em>IEEE/ACM International Conference on Computer-Aided Design (ICCAD)</em>, 2026
+                  <em>International Symposium on Computer Architecture (ISCA)</em>, 2023
                   <br>
-                  Paper: [fixme]
+                  [ISCA <a href="/posts_html/HAAC_ISCA_demo_slide/">slides/YouTube</a>],
+                  [<a href="/posts_html/HAAC_DISCC/">DISCC</a>]
                   <p>
-                    Locus is a framework for exploring and optimizing point-addition hardware for zero-knowledge
-                    proof workloads.
+                    HAAC combines a tailored compiler and memory architecture to accelerate Garbled Circuits (GC) Protocol for
+                    data-oblivious, privacy-preserving computation.
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td style="padding:20px;width:25%;vertical-align:middle">
+                  <div class="one">
+                    <img src="images/mixGC_fig_1.jpg" width="160" alt="ABLE mixed arithmetic and Boolean garbled circuit optimization"
+                      loading="lazy">
+                  </div>
+                </td>
+                <td style="padding:20px;width:75%;vertical-align:middle">
+                  <a href="/posts_html/mixedGC/"><papertitle>ABLE: Optimizing Mixed Arithmetic and Boolean Garbled Circuit</papertitle></a>
+                  <br>
+                  <strong>Jianqiao Mo</strong>, Karthik Garimella, Austin Ebel, Brandon Reagen
+                  <br>
+                  [<a href="https://github.com/jianqiaomo/mixed_boolean_arith_garble">Code</a>]
+                  <p>
+                    ABLE implements and optimizes transformations between Boolean and arithmetic GC, enables the selection of an efficient mixed-circuit realization for privacy-preserving computation.
                   </p>
                 </td>
               </tr>
@@ -437,9 +459,23 @@
               <tr>
                 <td style="padding:20px;width:100%;vertical-align:middle">
                   <heading>Misc</heading>
-                  <p></p>
                   <ul>
-                    <li><strong>..</li>
+                    <li>
+                      <time datetime="2022-12-28">[Dec 28, 2022]</time>
+                      <a href="/posts_html/FE-CTF2022/">FE-CTF 2022 Hash Uppers Downers (Solution Writeup)</a>.
+                    </li>
+                    <li>
+                      <time datetime="2021-05-29">[May 29, 2021]</time>
+                      <a href="/posts_html/Remote-SSH-to-WSL/">Remote SSH to WSL</a>.
+                    </li>
+                    <li>
+                      <time datetime="2019-01-27">[Jan 27, 2019]</time>
+                      <a href="/posts_html/MATLAB-halftone-dither/">MATLAB: 图像半调转换(halftone)和抖动转换(dither)</a>.
+                    </li>
+                    <li>
+                      <time datetime="2019-01-27">[Jan 27, 2019]</time>
+                      <a href="/posts_html/MATLAB-image-rotation-interpolation/">MATLAB: 图像旋转与插值并比较前后MSE</a>.
+                    </li>
                   </ul>
                 </td>
               </tr>
