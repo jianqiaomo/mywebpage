@@ -116,6 +116,22 @@ heading a {
   line-height: inherit;
 }
 
+heading[id] {
+  scroll-margin-top: 16px;
+}
+
+heading .section-anchor {
+  display: inline-block;
+  margin-right: 0.2em;
+  color: #8a949e;
+  text-decoration: none;
+}
+
+heading .section-anchor:hover,
+heading .section-anchor:focus {
+  color: #1772d0;
+}
+
 papertitle {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 15px;
